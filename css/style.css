@@ -1,0 +1,241 @@
+body{
+	font-family: Tahoma;
+	font-size: 13px;
+	width: 1000px;
+	margin: 0px auto;
+}
+#menu_top{
+	background: black;
+	height: 40px;
+}
+
+
+#menu_top> ul> li> a:hover{
+	color: red;
+	background: orange;
+   }
+ul.submenu {
+	width: 250px;
+	background: #1949b5;
+	min-height: 150px;
+	display: none;
+	position: absolute;
+}
+#menu_top >ul >li:hover ul.submenu{
+	display: block;
+}
+
+ul.submenu{
+list-style: none;
+}
+ul.submenu li a{
+	color: #FFF;
+	text-decoration: none;
+	display: block;
+	border-bottom: 2px solid #ccc;
+	line-height: 40px;
+	text-indent: 20px;
+}
+
+
+#logo img {
+   height: 1000px;
+	margin-top: 20px;
+}
+#banner{
+
+
+	border-top: 3px solid #fff;
+     background: green;	
+	height: auto;
+	width: 1000px;
+}
+
+
+
+
+#main #left{
+	width: 750px;
+	float: left;
+	min-height: 400px;
+}
+#main #right{
+	width: 250px;
+    min-height: 400px;
+    float: left;
+
+}
+#footer{
+	background: #000;
+	width: 1000px;
+	text-align: center;
+	height: 60px;
+	clear: left;
+	line-height: 60px;
+}
+#menu_top ul{
+margin: 0px;
+padding: 0px;
+}
+#menu_top >ul >li{
+list-style:  none;
+float: left;
+}
+#menu_top >ul >li> a{
+	text-decoration: none;
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	color: #FFF;
+	padding: 0px 23px 0px 23px ;
+	border-right: 2px solid #ccc;
+	position: relative;
+
+}
+#menu_top >li:last-child{
+	border: none;
+}
+
+#menu_top >ul > li >a.active{
+	background: black;
+}
+#banner img{
+	width: 1000px;
+}
+
+#main #left ul{
+	margin: 0px;
+	padding: 0px;
+
+}
+#menu_top img{
+	height: auto;
+	width: 79px;
+}
+
+#main #left ul li{
+	list-style: none;
+	clear: left;
+
+
+	border-bottom: 0.1px solid black;
+	float: left;
+	margin-bottom: 20px;
+}
+#main #left ul li img{
+
+		border: 2.5px solid red;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+#main #left ul li h2{
+	font-size: 16px;
+	margin-top: 0px;
+}
+
+#main {
+	margin-top: 10px;
+}
+#main #right .menu_right ul{
+	margin: -15px 0px 0px 0px;
+	padding: 0px;
+
+}
+#main #right .menu_right ul li{
+	list-style: none;
+	}
+#ban img{
+
+border-top: 2px solid #fff;
+}
+#main #right .menu_right ul li a{
+      
+	display: block;
+	text-decoration: none;
+	line-height: 35px;
+	height: 45px;
+	border-bottom: 1px solid #ccc;
+	background: blue url(../images/check.jpg) no-repeat 2px;
+	text-indent: 50px;
+	color: #fff;
+	font-size: 14px;
+}
+#main #right .menu_right ul li a:hover{
+	color: orange;
+	}
+
+	#main #right .menu_right h3:hover{
+          
+           color: red;
+       }
+
+#main #right .menu_right h3{
+    border: 3.2px solid blue;
+ 
+	background: black url(../images/iconmenu.png) no-repeat;
+	height: 42px;
+   margin-top: 0px;
+   text-align: center;
+    font-size: 14px;
+    line-height: 40px;
+    color: #fff;
+
+ }
+#search input[type='text'] {
+
+		border: 3px solid red;
+	outline: none;
+	background: #fff url(../images/search.png) no-repeat 140px;
+	margin-top:8px;
+	float: right;
+	padding: 1px;   
+     background-size: 22px;
+}
+
+#menu_top ul.root >li ul.submenu> li{
+	position: relative;
+}
+
+#menu_top ul.root >li > ul.submenu> li  a{
+   	color: #fff;
+	display: block;
+
+
+	text-decoration: none;
+	text-indent: 20px;
+    border-bottom: 1px solid #ccc;
+  
+}
+#menu_top ul.root >li >ul.submenu >li a:hover{
+	color: red;
+	background: orange;
+}
+
+#menu_top ul.root >li ul.submenu >li >ul{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	position: absolute;
+	width: 200px;
+	background: #3c4473;
+	left: 250px;
+  top: 1px;
+  opacity: 0;
+}
+
+#menu_top ul.root >li ul.submenu >li:hover >ul{
+  
+	opacity: 1;
+}
+
+
+#main #left h2{
+
+	color: red;
+}
+
+#main #left h4{
+
+	color: black;
+}

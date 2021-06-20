@@ -1,0 +1,305 @@
+<!doctype html>
+<html>
+<head>
+	<title>Nguyen minh phat</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+
+
+  <div id="menu_top">
+
+   <ul class="root">
+
+       <li><a href="">
+      <img src="images/logo.png" />
+    
+    </a></li>
+  		<li><a href="#" title="Trang chu" class="active">Trang Chủ</a></li>
+  		<li><a href="#" title="Gioi thieu">Giới Thiệu</a>
+                         <ul class="submenu">
+                        <li> <a href="">Ngày Thành Lập: 18/6/2021.</a></li>
+                        <li> <a href="">Tác Giả: Nguyễn Minh Phát.</a></li>
+                        <li> <a href="">Thành Tích: Đạt Chuẩn Quốc Tế.</a></li>
+                        <li> <a href="">Khóa Học:</a> 
+                                    <ul class="submenu">
+                            <li> <a href="">Lập Trình C\C++.</a></li>
+                            <li> <a href="">Lập Trình PHP.</a></li>
+                            <li> <a href="">Lập Trình MySQL.</a></li> 
+                            <li> <a href="">Lập Trình NoSQL.</a></li> 
+                          </ul>
+                        </li>
+                       </ul>
+
+                       </li>
+  		<li><a href="#" title="">Tài Trợ</a>
+                    <ul class="submenu">
+                        <li> <a href="">Người ủng hộ.</a>
+                              <ul class="submenu">
+                            <li> <a href="">Người 1:</a></li>
+                            <li> <a href="">Người 2:</a></li>
+                            <li> <a href="">Người 3:</a></li> 
+                            <li> <a href="">Người 4:</a></li> 
+                          </ul>
+
+                        </li>
+                           <li> <a href="">Danh sách người tham gia.</a>
+                                       <ul class="submenu">
+                            <li> <a href="">STT 1:</a></li>
+                            <li> <a href="">STT 2:</a></li>
+                            <li> <a href="">STT 3:</a></li> 
+                            <li> <a href="">STT 4:</a></li> 
+                          </ul>
+
+                           </li>
+                        <li> <a href="">Địa chỉ.</a>
+                                 <ul class="submenu">
+                            <li> <a href="">Bình Minh,Vĩnh Long,Việt Nam.</a></li>
+                            <li> <a href="">076666666.</a></li>
+                            <li> <a href="">Facebook: NMP. </a></li> 
+                            <li> <a href="">/css/bt/laout1/index.html#.</a></li> 
+                          </ul>
+                            
+                        </li>
+
+                        </li>
+                        <li> <a href="">Liên kết ngân hàng.</a>
+                                     <ul class="submenu">
+                            <li> <a href="">Sacombank:0777077707</a></li>
+                            <li> <a href="">Paypal:099599595</a></li>
+                            <li> <a href="">Viettinbank:5858585</a></li> 
+                            <li> <a href="">Aribank:994858555</a></li> 
+                          </ul>
+
+                        </li>
+                        <li> <a href="">Về NMP.</a></li>
+                      </ul>
+                      
+      </li>
+  		<li><a href="#" title="">Bài viết</a>
+             <ul class="submenu">
+                            <li> <a href=""> ♥ Kho tài liệu.</a>
+                                   <ul class="submenu">
+                            <li> <a href="">2500 bài C\C++.</a></li>
+                            <li> <a href="">1500 bài PHP.</a></li>
+                            <li> <a href="">1000 bài MySQL.</a></li> 
+                            <li> <a href="">1000 bài NoSQL.</a></li> 
+                          </ul>
+
+                            </li>
+                            <li> <a href=""> ♥ Bài viết được chia sẻ.</a>
+                                  <ul class="submenu">
+                             <li> <a href="">Tổng 10.000 bài viết.</a>
+                               </ul>
+                             </li> 
+ 
+                            </li>
+                            <li> <a href=""> ♥ Đánh giá bởi cộng đồng.</a></li> 
+    
+                          </ul>
+
+      </li>
+  		<li><a href="#" title="">Hỏi đáp</a>
+
+                          <ul class="submenu">
+                            <li> <a href=""> ♥ Hỏi về MySQL.</a>
+                                <ul class="submenu">
+                            <li> <a href="">Câu hỏi 1:</a></li>
+                            <li> <a href="">Câu hỏi 2:</a></li>
+                            <li> <a href="">Câu hỏi 3:</a></li> 
+                            <li> <a href="">Câu hỏi 4:</a></li> 
+                          </ul>
+                            </li>
+                            <li> <a href=""> ♥ Hỏi về NoSQL.</a>
+                               <ul class="submenu">
+                            <li> <a href="">Câu hỏi 1:</a></li>
+                            <li> <a href="">Câu hỏi 2:</a></li>
+                            <li> <a href="">Câu hỏi 3:</a></li> 
+                            <li> <a href="">Câu hỏi 4:</a></li> 
+                          </ul>
+                            </li>
+                            <li> <a href=""> ♥ Hỏi về PHP.</a>
+                             <ul class="submenu">
+                            <li> <a href="">Câu hỏi 1:</a></li>
+                            <li> <a href="">Câu hỏi 2:</a></li>
+                            <li> <a href="">Câu hỏi 3:</a></li> 
+                            <li> <a href="">Câu hỏi 4:</a></li> 
+                          </ul>
+
+                            </li> 
+                            <li> <a href=""> ♥ Hỏi về C\C++.</a>
+                              <ul class="submenu">
+                            <li> <a href="">Câu hỏi 1:</a></li>
+                            <li> <a href="">Câu hỏi 2:</a></li>
+                            <li> <a href="">Câu hỏi 3:</a></li> 
+                            <li> <a href="">Câu hỏi 4:</a></li> 
+                          </ul>
+
+
+                            </li> 
+                          </ul>
+
+
+      </li>
+  		<li><a href="#" title="">Phản hồi</a>
+          <ul class="submenu">
+                            <li> <a href="">♥ Góp ý.</a>
+
+                        <ul class="submenu">
+                            <li> <a href="">Câu hỏi 1:</a></li>
+                            <li> <a href="">Câu hỏi 2:</a></li>
+                            <li> <a href="">Câu hỏi 3:</a></li> 
+                            <li> <a href="">Câu hỏi 4:</a></li> 
+                          </ul>
+
+                            </li>
+                            <li> <a href="">♥ Liên hệ nếu có nhu cầu về dịch vụ.</a>
+                            <ul class="submenu">
+                            <li> <a href="">Câu hỏi 1:</a></li>
+                            <li> <a href="">Câu hỏi 2:</a></li>
+                            <li> <a href="">Câu hỏi 3:</a></li> 
+                            <li> <a href="">Câu hỏi 4:</a></li> 
+                          </ul>
+
+
+
+                            </li>
+                            <li> <a href="">♥ Những thắc mắc khác.</a>
+                            <ul class="submenu">
+                            <li> <a href="">Câu hỏi 1:</a></li>
+                            <li> <a href="">Câu hỏi 2:</a></li>
+                            <li> <a href="">Câu hỏi 3:</a></li> 
+                            <li> <a href="">Câu hỏi 4:</a></li> 
+                          </ul>
+
+                            </li> 
+                    
+                          </ul>
+
+
+      </li>
+  		<li><a href="#" title="Lien he">Liên Hệ</a>
+                       <ul class="submenu">
+                            <li> <a href="">Email: nphat3333333@gmail.com.</a>
+
+                           </li>
+                            <li> <a href="">HotLine: 076666666.</a></li>
+                            <li> <a href="">Địa Chỉ: Bình Minh, Vĩnh Long.</a></li> 
+                          </ul>   
+                      
+      </li>
+
+         <from id="search">
+          <input type="text" name="s" placeholder="Tìm Kiếm:">
+        </from>
+
+  </div>
+
+  <div id="banner">
+    <img src="images/banner.png" />
+  </div>
+  <div id="main">
+  	<div id="left">
+      <ul>
+        <li>
+          <img src="images/c++.jpg" />
+          <h2>Khóa học lập trình C++ căn bản.</h2>
+           <h4/>Giới thiệu khóa học Hiện nay, C++ đã là cái tên rất quen thuộc trong ngành lập trình. Mặc dù C++ là ngôn ngữ lập trình đã ra đời khá lâu, 
+          nhưng không phải ai cũng có cơ hội để tìm hiểu về nó.</h4>
+            
+        </li>
+      </ul>
+       <ul>
+        <li>
+          <img src="images/css.jpg" />
+          <h2>Khóa học lập trình PHP căn bản.</h2>
+             <h4/>Giới thiệu khóa học PHP (Hypertext Preprocessor) là tập hợp con của các ngôn ngữ script như JavaScript và Python. Sự khác biệt là ngôn ngữ PHP chủ yếu được sử dụng để giao tiếp phía server trong khi JavaScript có thể được sử dụng cho cả frontend cũng như backend và Python – chỉ dành cho phía client (backend) Chúng bao gồm việc yêu cầu một trang web tĩnh (được xây dựng bằng HTML và CSS) thực hiện các hành động cụ thể với quy tắc bạn đã xác định PHP được coi là ngôn ngữ script vì mục đích chung.</h4>
+            
+        </li>
+      </ul>
+
+         <ul>
+        <li>
+          <img src="images/mysql.jpg" />
+          <h2>Khóa học lập trình MySQL nâng cao.</h2>
+             <h4/>Giới thiệu khóa học MySQL là một hệ thống quản trị cơ sở dữ liệu mã nguồn mở hoạt động theo mô hình client-server. RDBMS là một phần mềm hay dịch vụ dùng để tạo và quản lý các cơ sở dữ liệu theo hình thức quản lý các mối liên hệ giữa chúng.</h4>
+            
+        </li>
+      </ul>
+      
+        <ul>
+        <li>
+          <img src="images/c.png" />
+          <h2>Khóa học lập trình C#.</h2>
+          <h4/>Giới thiệu khóa học C# (đọc là "C thăng" hay "C sharp" ("xi-sáp")) là một ngôn ngữ lập trình hướng đối tượng, mã nguồn mở, đơn giản, hiện đại, linh hoạt. C# được phát triển bởi Microsoft và được phê chuẩn bởi European Computer Manufacturers Association (ECMA) và International Standards Organization (ISO).Microsoft phát triển C# dựa trên C++ và Java. C# được miêu tả là ngôn ngữ có được sự cân bằng giữa C++, Visual Basic, Delphi và Java. C# được phát triển bởi Anders Hejlsberg và team của ông trong khi phát triển .Net Framework.C# được thiết kế cho Common Language Infrastructure (CLI), mà gồm Executable Code và Runtime Environment, cho phép chúng ta sử dụng các ngôn ngữ high-level đa dạng trên các nền tảng và cấu trúc máy tính khác nhau.</h4>
+            
+        </li>
+      </ul>
+          
+             <ul>
+        <li>
+          <img src="images/ruby.jpg" />
+          <h2>Khóa học lập trình Ruby nâng cao.</h2>
+            <h4/>Giới thiệu khóa học Ruby là một ngôn ngữ hướng đối tượng: mỗi bit dữ liệu đều là một đối tượng (object), bao gồm các kiểu dữ liệu mà đối với các ngôn ngữ khác Ruby là ngôn ngữ lập trình kịch bản bởi mã lệnh của Ruby có thể chạy trực tiếp bởi máy tính mà không cần phải biên soạn thành một tệp thực thi tệp tin .exe trên Windows hay tệp tin binary trên Linux Ruby được xem là một ngôn ngữ lập trình đa mẫu hình (multi-paradigm programming language): nó cho phép bạn lập trình dạng thủ tục (tạo ra các hàm/biến nằm ngoài phạm vi của các lớp và biến chúng thành một phần của đối tượng gốc, 'self' Object), với khả năng hướng đối tượng (mọi thứ đều là đối tượng) hay hàm (nó có các hàm không có tên (anonymous functions), closures, và continuations; mọi câu lệnh đều có giá trị trả về, và các hàm đều trả về kết quả ước lượng cuối cùng).</h4>
+            
+        </li>
+      </ul>
+
+
+             <ul>
+        <li>
+          <img src="images/nosql.png" />
+          <h2>Khóa học lập trình NoSQL nâng cao. </h2>
+         <h4/>Giới thiệu khóa học Cơ sở dữ liệu NoSQL là Cơ sở dữ liệu được xây dựng dành riêng cho mô hình dữ liệu và có sơ đồ linh hoạt để xây dựng các ứng dụng hiện đại. Cơ sở dữ liệu NoSQL được công nhận rộng rãi vì khả năng dễ phát triển, chức năng cũng như hiệu năng ở quy mô lớn. Trang này có các tài nguyên giúp bạn hiểu thêm về cơ sở dữ liệu NoSQL và bắt đầu sử dụng. Cơ sở dữ liệu NoSQL là lựa chọn cực kỳ thích hợp cho nhiều ứng dụng hiện đại.Sử dụng cơ sở dữ liệu cực kỳ thiết thực.</h4>
+            
+        </li>
+      </ul>
+
+    </div>
+  	<div id="right">
+      <div class="menu_right">
+        <h3>Danh mục khóa học:</h3>
+        <ul>
+          <li><a href="">Khóa học C\C++.</a> </li>
+           <li><a href="">Khóa học PHP. </a></li>
+            <li><a href="">Khóa học MySQL.</a></li>
+             <li><a href="">Khóa học NoSQL.</a></li>
+              <li><a href="">Khóa học C#.</a></li>
+               <li><a href="">Khóa học Ruby.</a></li>
+                <li><a href="">Khóa học CSS.</a> </li>
+           <li><a href="">Khóa học CSS3. </a></li>
+            <li><a href="">Khóa học HTML5.</a></li>
+             <li><a href="">Khóa học JS.</a></li>
+              <li><a href="">Khóa học Thiết kế đồ họa.</a></li>
+               <li><a href="">Khóa học AI.</a></li>
+                <li><a href="">Khóa học Phân tích hệ thống.</a> </li>
+           <li><a href="">Khóa học bảo mật Wedsite. </a></li>
+            <li><a href="">Khóa học Hackcer mũ trắng.</a></li>
+             <li><a href="">Khóa học Kiến trúc máy tính.</a></li>
+                    <li><a href="">Khóa học Hackcer mũ đen.</a></li>
+        
+
+           </ul>
+
+      
+               <div id="ban">
+    <img src="images/ban.jpg" />
+  </div>
+    <h3>Menu:</h3>
+
+    <ul>
+      <li><a href="">Đăng ký.</a> </li>
+           <li><a href="">Đăng nhập. </a></li>
+            <li><a href="">Thông tin.</a></li>
+             <li><a href="">Ưu đãi.</a></li>
+              <li><a href="">Khóa học hàng tháng.</a></li>
+               <li><a href="">Quyền lợi.</a></li>
+               <li><a href="">Khuyến mãi.</a> </li>
+           <li><a href="">Kết quả và hiệu quả. </a></li>
+            <li><a href="">Đánh giá.</a></li>
+             <li><a href="">Cộng đồng.</a></li>     
+    </ul>
+
+  </div>
+</div>
+  <div id="footer">Footer</div>
+</body>
+</html>
